@@ -1,15 +1,13 @@
 # TAMU CSA Website
 
-This repository contains the source code for the Texas A&M University Computer Science Association (TAMU CSA) website.
+This repository contains the source code for the Texas A&M University Chinese Student Association (TAMU CSA) website.
 
 ## Features
 
 - Event announcements and calendar
-- Member resources and documentation
+- Membership and event forms
 - Contact and social media links
-- Responsive design
-
-## Getting Started
+- Photo albums and general meeting slides
 
 ### Prerequisites
 
@@ -66,8 +64,9 @@ Please ensure your code follows the project's style guidelines and includes rele
 
 If you have any questions, feel free to contact [@akhilk999](https://github.com/akhilk999) about project setup or the previous PR chair.
 
-- I turned off auto-renew, so make sure to renew the domain on Vercel [(csatamu.org)](https://csatamu.org) if you want to keep it.
+- Make sure to renew the domain on Vercel [(csatamu.org)](https://csatamu.org) if you want to keep it.
 - Update the GOOGLE_SHEET_ID environment variable whenever a new member point sheet is made
+    - (Now that CSA Points Platform exists, this needs to be deprecated)
 - Whenever updating any environment variables, make sure to update it on both `.env` and the Vercel environment variables menu for deployment.
 
 Also for any future PR Chairs, please update this documentation if you change anything, I want to make sure to keep development as easy as possible for future years and future webmasters too.
