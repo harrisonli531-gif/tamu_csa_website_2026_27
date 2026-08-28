@@ -1,0 +1,87 @@
+//NOT UPDATED YET (Copy of last year's)
+
+import { Jiating } from "@/utils/types";
+import { MegateamList } from "@/content/2025-2026/megateam";
+
+// 2026-2027 Parents!!
+    
+export const JiatingList: Jiating[] = [
+    {
+        id: 1,
+        name: "Usagi",
+        instagram: "usagifam",
+        years: "2025-2026",
+        parents: [
+            MegateamList.find(parent => parent.name === "Dominic Hidayat")!,
+            MegateamList.find(parent => parent.name === "Peter Ha")!,
+            MegateamList.find(parent => parent.name === "Zachary Yang")!,
+            MegateamList.find(parent => parent.name === "Ethan Lam")!
+        ],
+        groupImgOrientation: "horizontal"
+    },
+    {
+        id: 2,
+        name: "Chiikawa",
+        instagram: "chiikawa_fam",
+        years: "2025-2026",
+        parents: [
+            MegateamList.find(parent => parent.name === "Christian Argenbright")!,
+            MegateamList.find(parent => parent.name === "Eric Liu")!,
+            MegateamList.find(parent => parent.name === "Kailee Yee")!,
+            MegateamList.find(parent => parent.name === "Sydney Guy")!
+        ],
+        groupImgOrientation: "horizontal"
+    },
+    {
+        id: 3,
+        name: "Kurimanju",
+        instagram: "kurimanjufam",
+        years: "2025-2026",
+        parents: [
+            MegateamList.find(parent => parent.name === "Maximillian Hsu")!,
+            MegateamList.find(parent => parent.name === "Ray Cheng")!,
+            MegateamList.find(parent => parent.name === "Akhil Kasamsetty")!,
+            MegateamList.find(parent => parent.name === "Matthew Yen")!
+        ],
+        groupImgOrientation: "horizontal"
+    },
+    {
+        id: 4,
+        name: "Momonga",
+        instagram: "momonga.jt",
+        years: "2025-2026",
+        parents: [
+            MegateamList.find(parent => parent.name === "Erith Won")!,
+            MegateamList.find(parent => parent.name === "Reilly Mize")!,
+            MegateamList.find(parent => parent.name === "Sarah Ward")!,
+            MegateamList.find(parent => parent.name === "Lia Chen")!
+        ],
+        groupImgOrientation: "horizontal"
+    },
+    {
+        id: 5,
+        name: "Rakko",
+        instagram: "rakko.fam",
+        years: "2025-2026",
+        parents: [
+            MegateamList.find(parent => parent.name === "Keilon Carrier")!,
+            MegateamList.find(parent => parent.name === "Steve Zhang")!,
+            MegateamList.find(parent => parent.name === "Evan Chang")!,
+            MegateamList.find(parent => parent.name === "Kody Chu")!
+        ],
+        groupImgOrientation: "vertical"
+    },
+    {
+        id: 6,
+        name: "Hachiware",
+        instagram: "hachiwarefam",
+        years: "2025-2026",
+        parents: [
+            MegateamList.find(parent => parent.name === "Jamie Lee")!,
+            MegateamList.find(parent => parent.name === "Vivian Chen")!,
+            MegateamList.find(parent => parent.name === "Peixuan Jiang")!,
+            MegateamList.find(parent => parent.name === "Jacob Pham")!
+        ],
+        groupImgOrientation: "horizontal"
+    }
+]
