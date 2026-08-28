@@ -12,9 +12,9 @@ interface ImageModalProps {
 export default function OfficerImageModal({ officer, className }: ImageModalProps) {
     // Set width and height based on the officer's raw image orientation
     let width, height;
-    // Find the first OfficerRole entry in the year "2025-2026"
+    // Find the first OfficerRole entry in the year "2026-2027"
     let entry: OfficerRole | undefined;
-    const entries = officer.yearEntries["2025-2026"] || [];
+    const entries = officer.yearEntries["2026-2027"] || [];
     entry = entries.find(entry => "position" in entry) as OfficerRole;
     if (entry && entry.rawImgOrientation === "horizontal") {
         width = 1000;
@@ -32,7 +32,7 @@ export default function OfficerImageModal({ officer, className }: ImageModalProp
             {/* Actual Image */}
 
             <div className="m-7">
-                <Image alt={`${officer.name}'s Full Image`} src={`/2025-2026/officerImages/raw/${officer.id}.JPG`} width={width} height={height}
+                <Image alt={`${officer.name}'s Full Image`} src={`/2026-2027/officerImages/raw/${officer.id}.JPG`} width={width} height={height}
                     className="rounded-2xl shadow-lg" style={{ objectFit: "contain" }} sizes=""
                 />  
             </div>

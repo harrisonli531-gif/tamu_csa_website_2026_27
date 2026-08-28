@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { OfficerList } from "@/content/2025-2026/officers";
+import { OfficerList } from "@/content/2026-2027/officers";
 import OfficerCard from "@/app/(nav-pages)/officers/components/OfficerCard";
 
 const OfficerPage = () => {

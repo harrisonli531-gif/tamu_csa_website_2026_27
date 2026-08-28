@@ -24,7 +24,7 @@ export const MegateamList: Megateam[] = [
         id: 1,
         name: "Keiko Cheung",
         major: "Management Information Systems '27",
-        instagram: "keiko0_cheung",
+        instagram: "keik0_cheung",
         yearEntries: {
             "2026-2027": [
                 {
@@ -146,7 +146,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 8,
+        id: 9,
         name: "Chloe Cheong",
         major: "Kinesiology '29",
         instagram: "ce_cheong",
@@ -161,7 +161,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 9,
+        id: 10,
         name: "Harrison Li",
         major: "Computer Science '28",
         instagram: "harrisonli0531",
@@ -176,7 +176,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 10,
+        id: 11,
         name: "El Wu",
         major: "Astrophysics '29",
         instagram: "_seasofjupiter_",
@@ -191,7 +191,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 11,
+        id: 12,
         name: "Evie Su",
         major: "Chemical Engineering '29",
         instagram: "eevee._.chu964",
@@ -206,7 +206,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 12,
+        id: 13,
         name: "Kylie Moon",
         major: "Kinesiology '29",
         instagram: "myliek_",
@@ -221,7 +221,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 13,
+        id: 14,
         name: "Kai Hammel",
         major: "International Affairs '27",
         instagram: "aka_hammel",
@@ -236,7 +236,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 14,
+        id: 15,
         name: "Troy Donaghy",
         major: "Electrical Engineering '29",
         instagram: "troy.donaghyy",
@@ -251,7 +251,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 15,
+        id: 16,
         name: "Andrew Zhang",
         major: "Computer Science '29",
         instagram: "kanji_gawa",
@@ -266,7 +266,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 16,
+        id: 17,
         name: "Keilon Carrier",
         major: "Physics '28",
         instagram: "starkeilon",
@@ -281,7 +281,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 17,
+        id: 18,
         name: "Dylan Mire",
         major: "Electrical Engineering '29",
         instagram: "dylann_mire",
@@ -296,7 +296,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 18,
+        id: 19,
         name: "Maximillian Hsu",
         major: "Computer Science '27",
         instagram: "ximabub",
@@ -311,7 +311,7 @@ export const MegateamList: Megateam[] = [
         }
     },
     {
-        id: 19,
+        id: 20,
         name: "Emily Dong",
         major: "Business, Pre-med '29",
         instagram: "emilyysdong",

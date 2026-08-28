@@ -1,5 +1,5 @@
 import SlideCard from "@/app/(nav-pages)/gm/components/SlideCard";
-import { GMSlideshowList } from "@/content/2025-2026/slides";
+import { GMSlideshowList } from "@/content/2025-2026/slides"; //UPDATE_HERE: change to 2026-2027 when that's created
 
 import { Metadata } from "next";
 import Link from "next/link";
