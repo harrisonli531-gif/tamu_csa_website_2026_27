@@ -1,6 +1,6 @@
 import LinkButton from "@/app/ui/LinkButton";
 import SchoolCard from "@/app/(nav-pages)/nihowdy/components/SchoolCard";
-import { nihowdySchools2026 } from "@/content/2025-2026/nihowdy";
+import { nihowdySchools2026 } from "@/content/2025-2026/nihowdy"; //UPDATE WHEN 2026-2027 is created TO DO
 
 import { Metadata } from "next";
 import Image from "next/image";

@@ -8,10 +8,10 @@ export const GMSlideshowList: GMSlideshow[] = [
     
     {
         title: "Informational!",
-        baseUrl: "https://docs.google.com/presentation/d/e/2PACX-1vQXI_ySEMMJ-6236kV-ZDf_qTaGVS_fcOM3VSErrSCNrFCeVz1Z8MghALy6EQo7ecOM84qbdly7dH1l/",
-        years: "2025-2026",
+        baseUrl: "https://docs.google.com/presentation/d/e/2PACX-1vShrmCbnQjSIAYG87JgxgZ4cxspyFN9cEQwjmaR3jGaIzZoYGTgx_wMZX4s1ChnttVj5U8Xyhxp363-/",
+        years: "2026-2027",
         slug: "informational",
-        date: "8/28/2025",
+        date: "8/27/2026",
     },
     
 ];

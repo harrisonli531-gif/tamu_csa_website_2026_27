@@ -1,5 +1,5 @@
 import OfficerFullImage from "@/app/(nav-pages)/officers/components/OfficerFullImage";
-import { OfficerList } from "@/content/2025-2026/officers";
+import { OfficerList } from "@/content/2026-2027/officers";
 
 import { Metadata } from "next";
 import NotFound from "@/app/not-found"

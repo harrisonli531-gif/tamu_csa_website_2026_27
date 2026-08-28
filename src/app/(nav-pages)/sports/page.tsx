@@ -1,6 +1,6 @@
 import SportsPageComponent from "@/app/(nav-pages)/sports/components/SportsPageComponent";
 import { getJTOMedals } from "@/lib/medals.server";
-import { JiatingList } from "@/content/2025-2026/jiatings";
+import { JiatingList } from "@/content/2025-2026/jiatings"; //TO DO update to 2026-2027 when that's created
 
 import { Metadata } from "next";
 

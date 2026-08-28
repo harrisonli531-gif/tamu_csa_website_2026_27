@@ -15,7 +15,7 @@ const PhotosPage = () => {
           {/* Button list of photo albums */}
           <main className="w-full max-w-5xl flex flex-col md:flex-row gap-8 mb-10 md:mb-16">
             <YearAlbumSection
-              year="2025-2026"
+              year="2025-2026" //TO DO update to 2026-2027 when that's created
               thisYear={true}
               albumList={AlbumList2025_26}
               className="flex-1"

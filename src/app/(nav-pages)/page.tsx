@@ -1,5 +1,5 @@
 import HomeCard from "@/app/(nav-pages)/home/components/HomeCard";
-import { JiatingList } from "@/content/2025-2026/jiatings";
+import { JiatingList } from "@/content/2026-2027/jiatings";
 
 import { Metadata } from "next";
 
@@ -16,6 +16,6 @@ export default function Home() {
 }
 
 export const metadata: Metadata = {
-  title: "TAMU CSA | 2025-2026",
+  title: "TAMU CSA | 2026-2027",
   description: "The official website of the Chinese Student Association at Texas A&M University!",
 };
