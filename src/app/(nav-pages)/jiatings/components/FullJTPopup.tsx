@@ -85,15 +85,16 @@ export default function FullJTPopup({ jiating }: { jiating: Jiating }) {
                             'lg:w-1/2': (jiating.groupImgOrientation === "horizontal"),
                             'lg:w-70/100': (jiating.groupImgOrientation === "vertical")
                         })}>
-                        {/* 
-                        <Image
-                            src={`/${jiating.years}/jiatings/${jiating.name}/infoslide.jpg`}
-                            alt=""
-                            width={960}
-                            height={540}
-                            className="object-cover rounded-lg shadow-md"
-                            style={{ width: "100%", height: "auto" }}
-                        />*/}
+                        <img 
+                            src={`/${jiating.years}/jiatings/${jiating.name}/${jiating.name}-infoslide.jpg`}
+                            onError={(e) => {
+                                // If it hasn't already tried png, switch to png
+                                if (!e.currentTarget.dataset.triedPng) {
+                                e.currentTarget.dataset.triedPng = "true";
+                                e.currentTarget.src = `/${jiating.years}/jiatings/${jiating.name}/${jiating.name}-infoslide.png`;
+                                }
+                            }}
+                        />
                     </div>
                 </div>
             </div> 

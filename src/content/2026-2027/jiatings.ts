@@ -1,4 +1,5 @@
 //NOT UPDATED YET (Copy of last year's)
+//TO DO Change the names!!!!
 
 import { Jiating } from "@/utils/types";
 import { MegateamList } from "@/content/2025-2026/megateam";

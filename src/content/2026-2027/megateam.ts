@@ -369,7 +369,7 @@ export const MegateamList: Megateam[] = [
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "Dimoo" },
+                    jiating: { name: "Miffy" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -429,7 +429,7 @@ export const MegateamList: Megateam[] = [
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Mofusand" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -444,7 +444,7 @@ export const MegateamList: Megateam[] = [
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Dimoo" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -459,7 +459,7 @@ export const MegateamList: Megateam[] = [
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Smiski" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -474,7 +474,7 @@ export const MegateamList: Megateam[] = [
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Miffy" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -489,7 +489,7 @@ export const MegateamList: Megateam[] = [
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Mofusand" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -499,12 +499,12 @@ export const MegateamList: Megateam[] = [
         id: 30,
         name: "William Vu",
         major: "PLACEHOLDER",
-        instagram: "PLACEHOLDER",
+        instagram: "wills.vu",
         yearEntries: {
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Hirono" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -514,12 +514,12 @@ export const MegateamList: Megateam[] = [
         id: 31,
         name: "Ethan Lam",
         major: "PLACEHOLDER",
-        instagram: "PLACEHOLDER",
+        instagram: "ethan.lamb74",
         yearEntries: {
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Hirono" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -529,12 +529,12 @@ export const MegateamList: Megateam[] = [
         id: 32,
         name: "Bonnie Tsoi",
         major: "PLACEHOLDER",
-        instagram: "PLACEHOLDER",
+        instagram: "bxing0930",
         yearEntries: {
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Hirono" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -544,12 +544,12 @@ export const MegateamList: Megateam[] = [
         id: 33,
         name: "Manya Tiwari",
         major: "PLACEHOLDER",
-        instagram: "PLACEHOLDER",
+        instagram: "manyatiwari_",
         yearEntries: {
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Dimoo" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -558,13 +558,13 @@ export const MegateamList: Megateam[] = [
     {
         id: 34,
         name: "Reilly Mize",
-        major: "PLACEHOLDER",
-        instagram: "PLACEHOLDER",
+        major: "Genetics '28",
+        instagram: "r_mize",
         yearEntries: {
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Peach Riot" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -573,13 +573,13 @@ export const MegateamList: Megateam[] = [
     {
         id: 35,
         name: "Miky Zheng",
-        major: "PLACEHOLDER",
-        instagram: "PLACEHOLDER",
+        major: "Accounting '29",
+        instagram: "mikii.996",
         yearEntries: {
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Mofusand" },
                     rawImgOrientation: "horizontal"
                 }
             ]
@@ -594,7 +594,7 @@ export const MegateamList: Megateam[] = [
             "2026-2027": [
                 {
                     type: "parent",
-                    jiating: { name: "PLACEHOLDER" },
+                    jiating: { name: "Dimoo" },
                     rawImgOrientation: "horizontal"
                 }
             ]
